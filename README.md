@@ -12,3 +12,6 @@ After checking the variance and mean stationary, the next step is to create an A
 
 # Forecast
 After create an ARIMA (12,0,1) model, forecast the data for February 2018-January 2025 period.
+
+# Insight
+Based on the forecasted increase in electric production, energy providers should prioritize expanding their production capacity. This could involve investing in new power plants, upgrading existing infrastructure, and exploring renewable energy sources. By proactively addressing the anticipated demand, providers can ensure a reliable and sustainable electricity supply for consumers.
